@@ -1,9 +1,9 @@
 ### Hi there 👋 I am x5s.
 
-<!--
-**Tosin5S/Tosin5S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:--!>
+
+
+
 
 
 - 🔭 I’m currently working on robotic insects and an android mobile controller for it.
