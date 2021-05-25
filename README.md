@@ -4,7 +4,7 @@
 **Tosin5S/Tosin5S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:--!>
-**My nickname is **x5s** **
+**My nickname is x5s** 
 
 - 🔭 I’m currently working on robotic insects and an android mobile controller for it.
 
