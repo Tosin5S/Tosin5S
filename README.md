@@ -3,7 +3,7 @@
 <!--
 **Tosin5S/Tosin5S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:--!>
 
 - 🔭 I’m currently working on robotic insects and an android mobile controller for it.
 - 🌱 I’m currently learning mobile development.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me anything
 - 📫 How to reach me: My Whatsapp number is 08108135552
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: You can't be afraid of the same fear twice.
+
