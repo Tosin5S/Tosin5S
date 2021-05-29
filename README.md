@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: My Whatsapp number is +2348108135552
 
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: You can't be afraid of the same fear twice.
 
