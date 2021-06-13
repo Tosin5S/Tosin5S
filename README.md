@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on robotic insects and an android mobile controller for it.
+- 🔭 I’m currently on Zuri internship.
 
 - 🌱 I’m currently learning mobile development.
 
