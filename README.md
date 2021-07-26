@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently on Zuri internship.
+- 🔭 I’m currently working on different projects.
 
 - 🌱 I’m currently learning mobile development.
 
