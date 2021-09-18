@@ -1,14 +1,8 @@
 ### Hi there 👋 I am x5s.
 
-
-
-
-
-
-
 - 🔭 I’m currently working on different projects.
 
-- 🌱 I’m currently learning mobile development.
+- 🌱 I’m currently learning backend development.
 
 - 👯 I’m looking to collaborate with other developers.
 
