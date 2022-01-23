@@ -6,7 +6,7 @@
 
 - 💬 You can ask me anything
 
-- 📫 How to reach me: My Whatsapp number is +2348108135552
+- 📫 How to reach me: My Whatsapp number is +2348060634870
 
 - 😄 Pronouns: He/Him
 
