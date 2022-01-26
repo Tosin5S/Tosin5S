@@ -11,3 +11,6 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: You can't be afraid of the same fear twice.
+
+[![Qudus Tosin Aileru's github stats](https://github-readme-stats.vercel.app/api?username=Tosin5S&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin5S&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
