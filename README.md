@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Tosin5S
 
-- 🌱 I’m currently learning Backend Web development and Android development.
+- 🌱 I’m currently learning to become a full-stack developer.
 
 - 👯 I’m looking to collaborate with other developers.
 
