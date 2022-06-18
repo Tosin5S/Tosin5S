@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Tosin5S
 
-- 🌱 I’m currently learning to become a full-stack developer.
+- 🌱 I’m currently learning to become a Software developer with a specialization in Android Software Development.
 
 - 👯 I’m looking to collaborate with other developers.
 
