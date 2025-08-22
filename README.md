@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: You can't be afraid of the same fear twice.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin5S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin5S&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
